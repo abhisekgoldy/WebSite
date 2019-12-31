@@ -1,1 +1,11 @@
+Member1,2,3,4 (273*303)
+banner (1920*1080)
+city (1600*603)
+log1 (517*84)
+item 4 (400*300)
+envelop (27*19)
+preloader (50*50)
+logo 1 (45*45)
+location-icon (28*29)
+footer-logo (114*48)
 
